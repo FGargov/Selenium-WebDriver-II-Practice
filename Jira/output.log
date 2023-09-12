@@ -1,0 +1,32 @@
+2023-09-12 16:43:10,632 INFO  [main] Initializing WebDriver
+2023-09-12 16:43:12,442 INFO  [main] Initializing WebDriver
+2023-09-12 16:43:12,446 INFO  [main] Initializing WebDriver
+2023-09-12 16:43:12,446 INFO  [main] Initializing WebDriver
+2023-09-12 16:43:12,446 INFO  [main] Initializing WebDriver
+2023-09-12 16:43:13,664 INFO  [main] Clicking on element jira.loginPage.continueButton
+2023-09-12 16:43:14,347 INFO  [main] Clicking on element jira.loginPage.loginButton
+2023-09-12 16:43:17,223 INFO  [main] Clicking on element jira.dashboardPage.jiraSoftware
+2023-09-12 16:43:20,190 INFO  [main] Clicking on element jira.dashboardPage.projectsButton
+2023-09-12 16:43:20,351 INFO  [main] Clicking on element jira.dashboardPage.allProjects
+2023-09-12 16:43:20,438 INFO  [main] Clicking on element jira.dashboard.recentProjectTwo
+2023-09-12 16:43:20,537 INFO  [main] Clicking on element jira.header.createButton
+2023-09-12 16:43:22,183 INFO  [main] Clicking on element jira.createIssueFormIssueType
+2023-09-12 16:43:22,255 INFO  [main] Waitong for 1000
+2023-09-12 16:43:23,353 INFO  [main] Initializing WebDriver
+2023-09-12 16:43:23,945 INFO  [main] Clicking on element jira.createIssueFormSummaryField
+2023-09-12 16:43:24,706 INFO  [main] Clicking on element jira.createIssueFormPriorityType
+2023-09-12 16:43:24,811 INFO  [main] Clicking on element jira.createIssueFormPriorityTypeSelection
+2023-09-12 16:43:24,845 INFO  [main] Clicking on element jira.createIssueFormCreateButton
+2023-09-12 16:43:24,923 INFO  [main] Waitong for 2000
+2023-09-12 16:43:26,934 INFO  [main] Clicking on element jira.sidebarMenu.issues
+2023-09-12 16:43:29,118 INFO  [main] Initializing WebDriver
+2023-09-12 16:43:29,119 INFO  [main] Initializing WebDriver
+2023-09-12 16:43:29,119 INFO  [main] Initializing WebDriver
+2023-09-12 16:43:29,119 INFO  [main] Clicking on element jira.header.createButton
+2023-09-12 16:43:38,181 INFO  [main] Clicking on element jira.createIssueFormIssueType
+2023-09-12 16:43:50,670 INFO  [main] Initializing WebDriver
+2023-09-12 16:44:10,193 INFO  [main] Clicking on element jira.createIssueFormPriorityType
+2023-09-12 16:44:10,640 INFO  [main] Clicking on element jira.createIssueFormPriorityTypeSelection
+2023-09-12 16:44:11,026 INFO  [main] Clicking on element jira.createIssueFormCreateButton
+2023-09-12 16:44:12,724 INFO  [main] Waitong for 2000
+2023-09-12 16:44:24,454 INFO  [main] Quitting WebDriver
